@@ -1,0 +1,3 @@
+BlueWins: 15
+RedWins: 42
+Draws: 8
